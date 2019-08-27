@@ -5,7 +5,7 @@ import Wrapper from "./components/Wrapper";
 import Header from "./components/Header";
 import cards from "./cards.json";
 
-class App extends Component {
+class App extends React.Component {
   state = {
     cards,
     score: 0,
