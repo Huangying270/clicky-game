@@ -32,5 +32,13 @@
   "main": "index.js",
   "devDependencies": {},
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Huangying270/clicky-game.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Huangying270/clicky-game/issues"
+  },
+  "homepage": "https://github.com/Huangying270/clicky-game#readme"
 }
